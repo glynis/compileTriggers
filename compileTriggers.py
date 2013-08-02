@@ -1,9 +1,8 @@
-# Created by G. MacMillan on 11/30/2012 
-# Last updated on 7/31/2013
-
 # This script takes the ecode column from an eventlist (which contains buttonpress information)
 # and a list of target triggers (which contains condition information),
 # and outputs an updated version of the ecode column including both buttonpress and condition information.
+# Created by Glynis MacMillan on 11/30/2012 
+
 
 import os
 
